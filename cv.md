@@ -30,3 +30,11 @@ let result = sum(1, 2);
 `
 
 ## Experience
+
+## Education
+
+- University: Mitso
+
+## English
+
+B2
