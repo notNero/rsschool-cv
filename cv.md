@@ -17,3 +17,16 @@ I have good interpersonal skills, am an excellent team worker and very willing t
 - CSS/SASS
 - JavaScript (Basic)
 - Git
+
+## Code example
+
+` 
+function sum(a, b) { 
+    return a + b; 
+}
+
+let result = sum(1, 2);
+ alert( result ); 
+`
+
+## Experience
